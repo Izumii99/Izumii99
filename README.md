@@ -70,18 +70,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 11 hrs 32 mins
+Total Time: 11 hrs 18 mins
 
-PHP              2 hrs 33 mins         ▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   22.15 %
-TypeScript       2 hrs 20 mins         ▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   20.29 %
-JavaScript       1 hr 24 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.19 %
-Python           1 hr 22 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   11.95 %
-JSX              1 hr 9 mins           ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   10.00 %
-HTML             1 hr 6 mins           ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   09.64 %
-Blade Template   57 mins               ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.23 %
-XML              15 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   02.19 %
+TypeScript       3 hrs 2 mins          ▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   26.91 %
+PHP              2 hrs 12 mins         ▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   19.55 %
+JavaScript       1 hr 24 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.48 %
+HTML             1 hr 4 mins           ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   09.44 %
+Blade Template   56 mins               ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.36 %
+JSX              56 mins               ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.33 %
+Python           56 mins               ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.29 %
+XML              16 mins               ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   02.44 %
 ```
 
 <!--END_SECTION:waka-->
