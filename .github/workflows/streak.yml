@@ -14,23 +14,33 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Streak Stats
-        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: dark
-          OUTPUT_PATH: streak-stats/github-streak-stats.svg
-          RING: "A855F7"
-          FIRE: "A855F7"
-          CURR_STREAK_NUM: "A855F7"
-          HIDE_BORDER: "true"
+      - name: Fetch Streak Stats
+        run: |
+          mkdir -p streak-stats
+          # Menggunakan URL original agar animasi dan warnanya sama persis seperti sebelumnya
+          URL="https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=dark&ring=A855F7&fire=A855F7&currStreakNum=A855F7&hide_border=true"
+          
+          # Coba fetch sampai 5 kali untuk mengantisipasi 503 Timeout dari Heroku
+          for i in {1..5}; do
+            curl -s "$URL" > streak-stats/github-streak-stats.svg
+            
+            # Cek apakah file yang didownload benar-benar file SVG (bukan error page)
+            if grep -q "<svg" streak-stats/github-streak-stats.svg; then
+              echo "Successfully fetched SVG"
+              exit 0
+            fi
+            
+            echo "Attempt $i failed, retrying in 15 seconds..."
+            sleep 15
+          done
+          
+          echo "Gagal mengambil SVG setelah 5 kali percobaan. Mempertahankan gambar sebelumnya."
+          exit 1
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -f streak-stats/github-streak-stats.svg
-          # Only commit if there are changes
-          git diff --staged --quiet || git commit -m "Auto-generate GitHub Streak Stats"
+          git diff --staged --quiet || git commit -m "Auto-update GitHub Streak Stats (Original Animated)"
           git push
