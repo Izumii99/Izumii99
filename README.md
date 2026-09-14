@@ -70,18 +70,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 12 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
-Total Time: 28 hrs 10 mins
+Total Time: 26 hrs 29 mins
 
-JavaScript       11 hrs 44 mins        ▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   41.53 %
-PHP              3 hrs 59 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   14.11 %
-TypeScript       3 hrs 39 mins         ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.93 %
-Python           2 hrs 7 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.54 %
-HTML             1 hr 59 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.02 %
-JSX              1 hr 56 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   06.87 %
-Blade Template   1 hr 45 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   06.22 %
-YAML             20 mins               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   01.20 %
+JavaScript       10 hrs 30 mins        ▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   39.66 %
+PHP              3 hrs 53 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   14.67 %
+TypeScript       3 hrs 45 mins         ▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   14.17 %
+Python           2 hrs 3 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.79 %
+HTML             1 hr 59 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.49 %
+Blade Template   1 hr 53 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   07.14 %
+JSX              1 hr 50 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   06.95 %
+YAML             20 mins               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   01.28 %
 ```
 
 <!--END_SECTION:waka-->
