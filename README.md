@@ -65,7 +65,7 @@
 
 ---
 
-<h3 align="center">⛓️ Time in Restraints (Coding Sessions)</h3>
+<h3 align="center"> Time in Restraints (Coding Sessions)</h3>
 
 <!--START_SECTION:waka-->
 
@@ -88,7 +88,7 @@ JSX              1 hr 15 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰�
 
 ---
 
-<h3 align="center">🐾 Tracks & Footprints (Activity)</h3>
+<h3 align="center"> Tracks & Footprints (Activity)</h3>
 
 <div align="center">
   <img src="https://github.com/Izumii99/Izumii99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
@@ -100,16 +100,16 @@ JSX              1 hr 15 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰�
 
 ---
 
-### 🦴 Current Obsession / Play
+###  Current Obsession / Play
 
-- 🕹️ _Genshin Impact_
-- ⚔️ _Zenless Zone Zero_
-- 🍰 _Trickcal Revive_
-- 🪢 _Engineering custom restraints & play-scripts for a certain exclusive Club_
+-  _Genshin Impact_
+-  _Zenless Zone Zero_
+-  _Trickcal Revive_
+-  _Engineering custom restraints & play-scripts for a certain exclusive Club_
 
 <br>
 
-<h3 align="center">📡 The Leash (Connection)</h3>
+<h3 align="center"> The Leash (Connection)</h3>
 <p align="center">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
