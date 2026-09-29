@@ -16,7 +16,7 @@
 <h3 align="center">🐾 Playroom Dynamics</h3>
 <div align="center">
 
-|       🐾 Role & Dynamic       |      🏰 The Kennel / Lair       |  🪢 Leashes & Instruments  |  🤐 Safeword  |
+|       🐾 Role & Dynamic       |        The Kennel / Lair       |     Leashes & Instruments  |      Safeword  |
 | :---------------------------: | :-----------------------------: | :------------------------: | :-----------: |
 | Handler / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧰 The Toy Box (Tech Stack)
+###  The Toy Box (Tech Stack)
 
 **Backend & Frameworks**
 
