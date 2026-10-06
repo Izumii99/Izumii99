@@ -16,9 +16,9 @@
 <h3 align="center">🐾 Playroom Dynamics</h3>
 <div align="center">
 
-|       🐾 Role & Dynamic       |        The Kennel / Lair       |     Leashes & Instruments  |      Safeword  |
-| :---------------------------: | :-----------------------------: | :------------------------: | :-----------: |
-| Handler / Switch (Full-Stack) | Universitas Hang Tuah Pekanbaru | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
+|       🐾 Role & Dynamic       | The Kennel / Lair |   Leashes & Instruments    |   Safeword    |
+| :---------------------------: | :---------------: | :------------------------: | :-----------: |
+| Handler / Switch (Full-Stack) |    My home :3     | Laravel, Strapi & Filament | `Ctrl + Z` 💜 |
 
 </div>
 
