@@ -1,4 +1,4 @@
-<h3 align="center">▶︎ •|l|l|l|l|l|• 0:10 ˙ 𐙚 Jamming Session</h3>
+<h3 align="center">▶︎ •|l|l|l|l|l|• 0:10 ˙ 𐙚 Soundproof Chamber (Music Session)</h3>
 <p align="center">
   <a href="https://spotify-widget-lemon.vercel.app/api/orchestrator/redirect" target="_blank">
     <img src="https://spotify-widget-lemon.vercel.app/api/orchestrator?background_type=blur_dark&border_color=A855F7&show_status=true" alt="Spotify Widget" />
@@ -11,30 +11,30 @@
   <p align="center">
     <code>✧･ﾟ: *✧･ﾟ:* (,,> ᴗ <,,) *:･ﾟ✧*:･ﾟ✧</code>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Moshi2~+IzumI+desu~~+(%CB%8A%E1%B4%97%CB%8B)%E2%9C%A7;Full-Stack+%26+Desktop+Client+Dev;C%23+%2F+WPF+%E2%80%A2+TypeScript+%E2%80%A2+Laravel;Client+Modding+%26+Automation+Scripts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=580&lines=Moshi2~+Izumi+here...+(%CB%8A%E1%B4%97%CB%8B)%E2%9C%A7;Full-Stack+%26+Desktop+Client+Developer;Bound+to+Clean+Code+%26+Architecture;Reverse-Engineering+%26+Addon+Scripts+for+BC" alt="Typing SVG" />
 </div>
 
 <br>
 
-<h3 align="center">꒰ᐢ. .ᐢ꒱ ₊˚ Playroom Dynamics</h3>
+<h3 align="center">꒰ᐢ. .ᐢ꒱ ₊˚ Chamber Dynamics (Profile)</h3>
 <div align="center">
 
-| ૮₍´˶• . • ⑅₎ა Role & Dynamic | —୨୧— The Lair | ✦ Instruments & Core Stack ✦ | ‹* Safeword *› |
-| :---: | :---: | :---: | :---: |
-| Switch / Full-Stack & Desktop | My cozy sanctuary (,,> ᴗ <,,) | C#/WPF, TypeScript, Laravel & Filament | `Ctrl + Z` ✧ |
+|   ૮₍´˶• . • ⑅₎ა Role & Dynamic    |     —୨୧— The Chamber (Base)     |         ✦ Core Stack & Tools ✦         |         ‹_ Safeword _›         |
+| :-------------------------------: | :-----------------------------: | :------------------------------------: | :----------------------------: |
+| Switch / Full-Stack & Desktop Dev | Neon Purple Chamber (,,> ᴗ <,,) | C#/WPF, TypeScript, Laravel & Filament | `Ctrl + Z` (Undo Everything) ✧ |
 
 </div>
 
 <br>
 
-<h3 align="center">₍ᐢ. .ᐢ₎ ˙ 𐙚 The Playpen (Battle Station)</h3>
+<h3 align="center">₍ᐢ. .ᐢ₎ ˙ 𐙚 The Playroom Setup (Battle Station)</h3>
 <p align="center">
-  <b>Rig:</b> Lenovo LOQ &nbsp;✦&nbsp; <b>Weapon:</b> Noir Timeless V2 & M7 Ultra &nbsp;<code>★ 🎧 ★</code>
+  <b>Laptop:</b> Lenovo LOQ &nbsp;✦&nbsp; <b>Gear:</b> Noir Timeless V2 Keyboard & M7 Ultra Mouse &nbsp;<code>★ 🎧 ★</code>
 </p>
 
 ---
 
-<h3 align="center">(˶ᵔ ᵕ ᵔ˶) ✧ The Toy Box (Tech Stack)</h3>
+<h3 align="center">(˶ᵔ ᵕ ᵔ˶) ✧ The Toy Box (Tech Stack & Tools)</h3>
 
 <div align="center">
   <p align="center">
@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── ꒰ᐢ. .ᐢ꒱ Desktop & Native (.NET) ──╮</code>
+      <code>╭── ꒰ᐢ. .ᐢ꒱ Desktop Client (.NET & C#) ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -55,7 +55,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── ૮₍´˶• . • ⑅₎ა Client Extensions & Modding ──╮</code>
+      <code>╭── ૮₍´˶• . • ⑅₎ა Client Scripts & Game Modding (TS/JS) ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -67,7 +67,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── (˶ᵔ ᵕ ᵔ˶) Backend & Full-Stack ──╮</code>
+      <code>╭── (˶ᵔ ᵕ ᵔ˶) Backend & Web Systems (PHP/Laravel) ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -80,7 +80,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── —୨୧— Database Management ──╮</code>
+      <code>╭── —୨୧— Databases & Data Storage (MySQL) ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
@@ -90,7 +90,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── ‹* Server & Hosting Panels *› ──╮</code>
+      <code>╭── ‹* Servers & Hosting Panels (Linux) *› ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/aaPanel-27AE60?style=for-the-badge&logo=serverfault&logoColor=white" alt="aaPanel" />
       <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
@@ -101,7 +101,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <code>╭── ˙ 𐙚 DevOps & Workflow Tools ──╮</code>
+      <code>╭── ˙ 𐙚 DevOps & Workflow Automation (Git/Docker) ──╮</code>
       <br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub_Desktop-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
@@ -117,7 +117,7 @@
 
 ---
 
-<h3 align="center">˙ 𐙚 Daily Obedience & Activity (,,> ᴗ <,,)</h3>
+<h3 align="center">˙ 𐙚 Daily Discipline (GitHub Stats) (,,> ᴗ <,,)</h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Izumii99&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&title_color=a855f7&icon_color=a855f7&text_color=fefefe&border_color=a855f7" alt="Izumii99's GitHub Stats" />
   <img height="180em" src="./streak-stats/github-streak-stats.svg" alt="GitHub Streak Neon Purple" />
@@ -126,7 +126,7 @@
 
 ---
 
-<h3 align="center">૮₍´˶• . • ⑅₎ა Time in Restraints (Coding Sessions)</h3>
+<h3 align="center">૮₍´˶• . • ⑅₎ა Hours in Restraints (Coding Sessions)</h3>
 
 <!--START_SECTION:waka-->
 
@@ -149,7 +149,7 @@ Lua              5 mins                ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 
 ---
 
-<h3 align="center">⊹ ₊ ˚ Tracks & Footprints (Activity) ˚ ₊ ⊹</h3>
+<h3 align="center">⊹ ₊ ˚ Activity History (Contributions) ˚ ₊ ⊹</h3>
 
 <div align="center">
   <img src="https://github.com/Izumii99/Izumii99/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
@@ -161,16 +161,16 @@ Lua              5 mins                ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 
 ---
 
-<h3 align="center">( ˶˘ ³˘) <3 Current Obsession & Play</h3>
+<h3 align="center">( ˶˘ ³˘) <3 Aftercare & Off-Duty Play (Hobbies)</h3>
 
 <p align="center">
   ✦ <i>Genshin Impact</i> &nbsp;•&nbsp; ✦ <i>Zenless Zone Zero</i> &nbsp;•&nbsp; ✦ <i>Trickcal Revive</i><br>
-  ✦ <i>Engineering custom client scripts & reverse-engineered add-ons for a certain Club</i> —୨୧—
+  ✦ <i>Creating custom scripts & reverse-engineered addons for Bondage Club</i> —୨୧—
 </p>
 
 <br>
 
-<h3 align="center">₊˚ʚ The Leash (Connection) ɞ⁺</h3>
+<h3 align="center">₊˚ʚ The Leash (Discord Contact) ɞ⁺</h3>
 <p align="center">
   <a href="https://discord.com/users/832141643251056660" target="_blank">
     <img src="https://lanyard-profile-readme.vercel.app/api/832141643251056660?theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Discord Status" />
@@ -184,5 +184,5 @@ Lua              5 mins                ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 
 <br>
 <p align="center">
-  <code>(,,> ᴗ <,,) *･ﾟﾟ･*:.｡..｡.:* moshi-moshi ~ see you around! *:.｡..｡.:*･ﾟ(˶ᵔ ᵕ ᵔ˶)</code>
+  <code>(,,> ᴗ <,,) *･ﾟﾟ･*:.｡..｡.:* UwU *:.｡..｡.:*･ﾟ(˶ᵔ ᵕ ᵔ˶)</code>
 </p>
