@@ -25,7 +25,7 @@ jobs:
           git clone https://github.com/DenverCoder1/github-readme-streak-stats.git streak-generator
           cd streak-generator
           composer install
-          echo "TOKEN=${{ secrets.GITHUB_TOKEN }}" > .env
+          echo "TOKEN=${{ secrets.STREAK_PAT || secrets.GITHUB_TOKEN }}" > .env
 
       - name: Generate SVG Locally
         run: |
