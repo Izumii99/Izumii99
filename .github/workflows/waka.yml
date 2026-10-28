@@ -12,7 +12,7 @@ jobs:
         permissions:
             contents: write
         steps:
-            - uses: athul/waka-readme@master
+            - uses: athul/waka-readme@8991b596d85696d98ea96f775390a1bbe266c8c9 # master
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
                   SHOW_TITLE: true
